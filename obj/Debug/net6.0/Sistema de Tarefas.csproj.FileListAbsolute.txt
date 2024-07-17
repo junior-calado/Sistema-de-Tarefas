@@ -63,3 +63,18 @@ C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\obj\Debug\net6.0\refint\Siste
 C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\obj\Debug\net6.0\Sistema de Tarefas.pdb
 C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\obj\Debug\net6.0\Sistema de Tarefas.genruntimeconfig.cache
 C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\obj\Debug\net6.0\ref\Sistema de Tarefas.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Refit.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Refit.HttpClientFactory.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\System.Net.Http.Json.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\System.Text.Json.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\obj\Debug\net6.0\Sistema de Tarefas.sourcelink.json
