@@ -9,6 +9,7 @@ Este projeto é uma API de Sistema de Tarefas desenvolvida em C# utilizando ASP.
 - **Linguagem:** C#
 - **Framework:** ASP.NET Core
 - **Banco de Dados:** SQL Server
+- **API ViaCep:** https://viacep.com.br
 
 ## Funcionalidades
 
