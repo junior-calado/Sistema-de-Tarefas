@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto é uma API de Sistema de Tarefas desenvolvida em C# utilizando ASP.NET Core. A API permite o cadastro de usuários e o gerenciamento de tarefas, incluindo a criação, atualização, deleção e listagem tanto de tarefas quanto de usuários. Também possui a funcionalidade de relacionar uma tarefa e atribuí-la a um determinado usuário. A interface do Swagger está integrada para facilitar a interação e teste dos endpoints.
+Este projeto é uma API de Sistema de Tarefas desenvolvida em C# utilizando ASP.NET Core. A API permite o cadastro de usuários e o gerenciamento de tarefas, incluindo a criação, atualização, deleção e listagem tanto de tarefas quanto de usuários. Também possui a funcionalidade de relacionar uma tarefa e atribuí-la a um determinado usuário. A interface do Swagger está integrada para facilitar a interação e teste dos endpoints. Esta implementado tambem uma rota da API ViaCep, onde eu consumi a API para retornar informações de acordo com o CEP que eu passar.
 
 ## Tecnologias Utilizadas
 
@@ -24,6 +24,9 @@ Este projeto é uma API de Sistema de Tarefas desenvolvida em C# utilizando ASP.
   - Atualização de tarefas existentes.
   - Deleção de tarefas.
   - Listagem de todas as tarefas.
+ 
+- **BUSCA DE CEP:** 
+  - Retorna informações de acordo com o CEP que for passado.
 
 ## Pré-requisitos
 
