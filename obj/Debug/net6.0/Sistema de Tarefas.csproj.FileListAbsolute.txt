@@ -1,0 +1,65 @@
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\appsettings.Development.json
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\appsettings.json
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Sistema de Tarefas.exe
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Sistema de Tarefas.deps.json
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Sistema de Tarefas.runtimeconfig.json
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Sistema de Tarefas.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Sistema de Tarefas.pdb
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Humanizer.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\obj\Debug\net6.0\Sistema de Tarefas.csproj.AssemblyReference.cache
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\obj\Debug\net6.0\Sistema de Tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\obj\Debug\net6.0\Sistema de Tarefas.AssemblyInfoInputs.cache
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\obj\Debug\net6.0\Sistema de Tarefas.AssemblyInfo.cs
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\obj\Debug\net6.0\Sistema de Tarefas.csproj.CoreCompileInputs.cache
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\obj\Debug\net6.0\Sistema de Tarefas.MvcApplicationPartsAssemblyInfo.cs
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\obj\Debug\net6.0\Sistema de Tarefas.MvcApplicationPartsAssemblyInfo.cache
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\obj\Debug\net6.0\staticwebassets\msbuild.Sistema de Tarefas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\obj\Debug\net6.0\staticwebassets\msbuild.build.Sistema de Tarefas.props
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Sistema de Tarefas.props
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Sistema de Tarefas.props
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\obj\Debug\net6.0\scopedcss\bundle\Sistema de Tarefas.styles.css
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\obj\Debug\net6.0\Sistema .6841FBB7.Up2Date
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\obj\Debug\net6.0\Sistema de Tarefas.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\obj\Debug\net6.0\refint\Sistema de Tarefas.dll
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\obj\Debug\net6.0\Sistema de Tarefas.pdb
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\obj\Debug\net6.0\Sistema de Tarefas.genruntimeconfig.cache
+C:\Programas\Sistema-de-Tarefas\Sistema de Tarefas\obj\Debug\net6.0\ref\Sistema de Tarefas.dll
